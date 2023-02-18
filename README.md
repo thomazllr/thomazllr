@@ -1,6 +1,4 @@
 # Guilherme Thomaz 👽
-
- ### Meu nome é Guilherme Thomaz e tenho 18 anos
  
  🌟 Atualmente estou cursando **Engenharia de Software**
  
