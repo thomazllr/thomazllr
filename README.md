@@ -6,7 +6,7 @@
  
  🧠 Focado em aprender cada vez mais
  
- 👾 Sou apaixonado por tecnologia  e aprendizagem desde pequeno. Gosto de entender como as coisas funcionam pelas entrelinhas e buscando cada vez mais melhoria e desafios 🐱‍🏍
+ 👾 Sou apaixonado por tecnologia  e aprendizagem desde pequeno. Gosto de entender como as coisas funcionam pelas entrelinhas e buscando cada vez mais melhoria e desafios
 
 ![Thomaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomazllr&show_icons=true&theme=dracula)
 
