@@ -14,11 +14,4 @@
 
 <div style="display inline_block"><br/>
 
- //#
-#<img align="center" alt=" " src =" "/>#
-#<img align="center" alt=" " src =" "/>#
-#<img align="center" alt=" " src =" "/>#
-#<img align="center" alt=" " src =" "/>#
-//#
-
 </div>
